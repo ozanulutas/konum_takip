@@ -1,0 +1,18 @@
+C:\Users\Ozan\source\repos\sistProg\sistProg\bin\Debug\sistProg.exe.config
+C:\Users\Ozan\source\repos\sistProg\sistProg\bin\Debug\sistProg.exe
+C:\Users\Ozan\source\repos\sistProg\sistProg\bin\Debug\sistProg.pdb
+C:\Users\Ozan\source\repos\sistProg\sistProg\obj\Debug\sistProg.csprojAssemblyReference.cache
+C:\Users\Ozan\source\repos\sistProg\sistProg\obj\Debug\sistProg.Form1.resources
+C:\Users\Ozan\source\repos\sistProg\sistProg\obj\Debug\sistProg.Properties.Resources.resources
+C:\Users\Ozan\source\repos\sistProg\sistProg\obj\Debug\sistProg.csproj.GenerateResource.cache
+C:\Users\Ozan\source\repos\sistProg\sistProg\obj\Debug\sistProg.exe
+C:\Users\Ozan\source\repos\sistProg\sistProg\obj\Debug\sistProg.pdb
+C:\Users\Ozan\Desktop\Final Proje\sistProg\sistProg\bin\Debug\sistProg.exe.config
+C:\Users\Ozan\Desktop\Final Proje\sistProg\sistProg\bin\Debug\sistProg.exe
+C:\Users\Ozan\Desktop\Final Proje\sistProg\sistProg\bin\Debug\sistProg.pdb
+C:\Users\Ozan\Desktop\Final Proje\sistProg\sistProg\obj\Debug\sistProg.csprojAssemblyReference.cache
+C:\Users\Ozan\Desktop\Final Proje\sistProg\sistProg\obj\Debug\sistProg.Form1.resources
+C:\Users\Ozan\Desktop\Final Proje\sistProg\sistProg\obj\Debug\sistProg.Properties.Resources.resources
+C:\Users\Ozan\Desktop\Final Proje\sistProg\sistProg\obj\Debug\sistProg.csproj.GenerateResource.cache
+C:\Users\Ozan\Desktop\Final Proje\sistProg\sistProg\obj\Debug\sistProg.exe
+C:\Users\Ozan\Desktop\Final Proje\sistProg\sistProg\obj\Debug\sistProg.pdb
